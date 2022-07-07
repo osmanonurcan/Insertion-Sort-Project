@@ -1,4 +1,6 @@
 # INSERTION-SORT-PROJECT
+Patika Veri Yapıları ve Algoritmalar Insertion Sort Projesi
+<br/>
 Patika Dev Profile: https://app.patika.dev/osmanonurcan
 
 ## PROJECT 1 
